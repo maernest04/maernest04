@@ -5,9 +5,7 @@
 - I'm an undergraduate computer engineering from SJSU graduating in Fall of 2026.
 - I will be interning at KLA for the Summer of 2026
 - During the Summer of 2025, I interned at KLA and built a Log Analysis Chatbot with RAG capabilities
-- Built SJ-Bay, an eBay copy dedicated to SJSU students to sell goods and services to other students in the area.
-- Currently building Gift Match, a gift giving app for couples to identify the right gift for their signficiant other
-- Currenly learning embedded systems and raspberry pi for projects
+- Currenly buillding any software project that comes to mind and learning embedded systems and raspberry pi
 
 # Languages
 [![Languages](https://skillicons.dev/icons?i=python,cpp,c,cs,flutter,html,tailwind)](https://skillicons.dev)
