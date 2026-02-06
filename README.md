@@ -6,7 +6,7 @@
 - I will be interning at KLA for the Summer of 2026
 - During the Summer of 2025, I interned at KLA and built a Log Analysis Chatbot with RAG capabilities
 - Built SJ-Bay, an eBay copy dedicated to SJSU students to sell goods and services to other students in the area.
-- Currently building Gift Match, a gift giviing app for couples to identify the right gift for their signficiant other
+- Currently building Gift Match, a gift giving app for couples to identify the right gift for their signficiant other
 - Currenly learning embedded systems and raspberry pi for projects
 
 # Languages
