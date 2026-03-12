@@ -6,8 +6,8 @@
   
 </div>
 
-- I'm an undergraduate computer engineering from SJSU graduating in Fall of 2026.
-- I will be interning at KLA for the Summer of 2026
+- Undergraduate computer engineering from SJSU graduating in Fall of 2026.
+- Interning at KLA Ann Arbor for the Summer of 2026
 - Currenly buillding any software project that comes to mind and learning embedded systems and raspberry pi
 
 # Languages
