@@ -16,7 +16,7 @@
 - Let's connect on [Linkedin!](https://www.linkedin.com/in/ernest-ma-231195213/)
 - Send me an [email!](maernest04@gmail.com)
 
-# Technology Stuff
+## Technology Stuff
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=python,go,cpp,c,cs,flutter,html,tailwind)](https://skillicons.dev)
 
