@@ -1,4 +1,4 @@
-## Hey, I'm Ernest!
+# Hey, I'm Ernest!
 
 ## School / Work Stuff
 
