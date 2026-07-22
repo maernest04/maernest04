@@ -3,8 +3,7 @@
 ## School / Work Stuff
 
 - Undergraduate computer engineering from SJSU graduating in December of 2026.
-- Returning SWE Intern at KLA for 2026
-- SWE Intern at KLA for 2025
+- 2x SWE Intern at KLA for 2025 & 2026
 
 ## Cool Stuff
 - [SCEvents](https://github.com/SCE-Development/SCEvents): Event planning system like Luma built for SJSU SCE
