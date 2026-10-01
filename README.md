@@ -1,4 +1,4 @@
-# Ernie Ma 🍪
+# Ernest Ma 🍪
 
 Wow someone actually checked my Github ⁉️
 
