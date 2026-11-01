@@ -1,7 +1,5 @@
 # Ernest Ma 🍪
 
-Wow someone actually checked my Github ⁉️
-
 ## Cool Stuff
 - Computer Engineering @ SJSU
 - Prev 2x SWE Intern @ KLA
