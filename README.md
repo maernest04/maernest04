@@ -1,6 +1,4 @@
 # Ernest Ma 🍪
-
-## Cool Stuff
 - Computer Engineering @ SJSU
 - Prev 2x SWE Intern @ KLA
 
